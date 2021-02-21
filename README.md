@@ -2,4 +2,4 @@
 Konsole colorscheme Black-on-White, modified for less annoying bright colors.
 
 ![](screenshot1.png)
-![](screenshot1.png)
+![](screenshot2.png)
